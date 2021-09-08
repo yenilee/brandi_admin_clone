@@ -14,7 +14,7 @@ Jinja2==2.11.2
 jmespath==0.10.0
 jsonschema==3.2.0
 MarkupSafe==1.1.1
-Pillow==7.1.2
+Pillow==8.3.2
 pycparser==2.20
 PyJWT==1.7.1
 PyMySQL==0.9.3
